@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-18T20:59:11.359Z" agent="5.0 (Windows)" etag="Ssx0uIRy9IngoBJ3-fHk" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-18T21:02:19.139Z" agent="5.0 (Windows)" etag="EXXDg1R7AFbiAwseHaCE" version="21.0.6" type="github" pages="2">
   <diagram name="index of max and min value" id="vBTHNjuzFwccUpQDCK3G">
     <mxGraphModel dx="2074" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="MZxlCmbDL5lt-zp-UeD0" name="Страница 2">
+  <diagram id="MZxlCmbDL5lt-zp-UeD0" name="sum between">
     <mxGraphModel dx="2074" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -247,6 +247,9 @@
         </mxCell>
         <mxCell id="zmUmPSBl_i2OAlPIhCmY-59" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="467.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8fuxi3vLDnGslqb4JAUS-1" value="Значения min и max не включала" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="170" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
