@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-18T21:29:29.732Z" agent="5.0 (Windows)" etag="6Oxq_7TjbGNIuP1qiqg_" version="21.0.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-19T06:33:08.314Z" agent="5.0 (Windows)" etag="WqJKTQfjnPz8oA-xUvAY" version="21.0.8" type="github" pages="3">
   <diagram name="index of max and min value" id="vBTHNjuzFwccUpQDCK3G">
     <mxGraphModel dx="2074" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="6eV6HnODiuM__9N0Hbm2-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6eV6HnODiuM__9N0Hbm2-5" target="6eV6HnODiuM__9N0Hbm2-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6eV6HnODiuM__9N0Hbm2-5" value="i &amp;lt; arrLength+1" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6eV6HnODiuM__9N0Hbm2-5" value="i &amp;lt; arrLength" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285.38" y="400" width="127.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6eV6HnODiuM__9N0Hbm2-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6eV6HnODiuM__9N0Hbm2-7" target="6eV6HnODiuM__9N0Hbm2-15" edge="1">
