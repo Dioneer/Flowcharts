@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-19T06:34:14.162Z" agent="5.0 (Windows)" etag="rhsriPT46n7MBUHrI-Z6" version="21.0.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-22T12:43:34.729Z" agent="5.0 (Windows)" etag="ACsPp4wlhkSp3lCISx_Z" version="21.0.8" type="github" pages="3">
   <diagram name="index of max and min value" id="vBTHNjuzFwccUpQDCK3G">
     <mxGraphModel dx="2074" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
             <mxPoint x="190.01000000000022" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6eV6HnODiuM__9N0Hbm2-15" value="&lt;div&gt;max=arr[i]&lt;/div&gt;min=arr[i]&lt;div&gt;maxIndex=arr[i]&lt;/div&gt;&lt;div&gt;minIndex=arr[i]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6eV6HnODiuM__9N0Hbm2-15" value="&lt;div&gt;max=arr[i]&lt;/div&gt;min=arr[i]&lt;div&gt;maxIndex=i&lt;/div&gt;&lt;div&gt;minIndex=i&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290.01" y="680" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6eV6HnODiuM__9N0Hbm2-18" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -138,7 +138,7 @@
             <mxPoint x="90.01000000000022" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zmUmPSBl_i2OAlPIhCmY-17" value="&lt;div&gt;max=arr[i]&lt;/div&gt;min=arr[i]&lt;div&gt;maxIndex=arr[i]&lt;/div&gt;&lt;div&gt;minIndex=arr[i]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zmUmPSBl_i2OAlPIhCmY-17" value="&lt;div&gt;max=arr[i]&lt;/div&gt;min=arr[i]&lt;div&gt;maxIndex=i&lt;/div&gt;&lt;div&gt;minIndex=i&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190.01" y="700" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zmUmPSBl_i2OAlPIhCmY-18" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
