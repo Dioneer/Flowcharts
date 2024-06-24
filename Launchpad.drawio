@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T19:27:05.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="NxveHXIJjVufKuJkg718" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T19:30:03.070Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="l-_iOqZiaI1A35Lwfocx" version="24.6.2" type="github">
   <diagram name="Страница — 1" id="2aXFVZ3Xk_fBZrCn8gK4">
-    <mxGraphModel dx="3934" dy="2350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3609" dy="2171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -806,7 +806,7 @@
         </object>
         <object placeholders="1" c4Type="Relationship" c4Description="Navigates to" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="bev9QPoZMpTh9QM9Vx_8-27">
           <mxCell style="endArrow=none;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=0;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;startArrow=classic;startFill=1;exitX=1.003;exitY=0.666;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.76;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V2ZN5FmdWJIWGW2kCKkR-107" target="bev9QPoZMpTh9QM9Vx_8-20">
-            <mxGeometry x="0.3334" width="240" relative="1" as="geometry">
+            <mxGeometry x="0.6406" width="240" relative="1" as="geometry">
               <mxPoint x="990" y="970" as="sourcePoint" />
               <mxPoint x="2520" y="900" as="targetPoint" />
               <Array as="points">
